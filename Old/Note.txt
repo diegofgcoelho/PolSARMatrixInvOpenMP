@@ -1,0 +1,2 @@
+The source codes under this folder are excluded from the build. 
+They are here just for reference and does not pose any influence on the final application.
